@@ -14,11 +14,11 @@ I focus on pragmatic engineering and clear communication, balancing product inst
 
 Core Skills
 -----------
-- Languages: JavaScript/TypeScript, Python, 
-- Frameworks & Libraries: Node.js, React, Next.js, Express, Flask
-- Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD
-- Data & Testing: PostgreSQL, Redis, Jest, PyTest, Test-Driven Development
-- Practices: Clean Architecture, Domain-Driven Design, Observability, SRE principles
+- Languages: JavaScript/TypeScript, Python.
+- Frameworks & Libraries: Node.js, React, Next.js, Express, Flask.
+- Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD.
+- Data & Testing: PostgreSQL, Redis, Jest, PyTest, Test-Driven Development.
+- Practices: Clean Architecture, Domain-Driven Design, Observability.
 
 How I Work
 ----------
