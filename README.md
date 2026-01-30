@@ -36,7 +36,7 @@ Open to
 
 Get in touch
 ------------
-- [Email](mailto:mikhail1337@hotmail.com?subject=Hello&body=Hi there!)
+- [mikhail1337@hotmail.com](mailto:mikhail1337@hotmail.com?subject=Hello&body=Hi there!)
 - [Twitter](https://x.com/MikhailNic1337)
 
 
