@@ -36,8 +36,9 @@ Open to
 
 Get in touch
 ------------
-- [mikhail1337@hotmail.com](mailto:mikhail1337@hotmail.com)
+- [Email](mailto:mikhail1337@hotmail.com)
 - [Twitter](https://x.com/MikhailNic1337)
+- [WhatsApp](https://wa.me/27825109962)
 
 
 How to hire me
