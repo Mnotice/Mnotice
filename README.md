@@ -41,10 +41,6 @@ Get in touch
 - [WhatsApp](https://wa.me/27825109962)
 
 
-How to hire me
---------------
-If you'd like to work together, email me at mikhail1337@hotmail.com or open an issue on one of my repos with "Collab" in the title — I’ll respond quickly.
-
 License & Thanks
 ----------------
 This README template is available under the MIT License. Thanks for stopping by — let’s build something great.
