@@ -31,7 +31,7 @@ Open to
 -------
 - Full-time Front-end engineering roles (backend, platform, SRE)
 - Contract / freelance work on APIs, automation, or data pipelines
--
+
 
 Get in touch
 ------------
