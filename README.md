@@ -4,7 +4,7 @@
 
 About
 -----
-I focus on pragmatic engineering and clear communication, balancing product instincts with technical craftsmanship.
+I'm a solopreneur building what im passionate about.
 
 -  I’m currently working on: a modern, scalable app that improves developer productivity.
 -  I’m currently learning: system design, observability, and agentic-driven features.
