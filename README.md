@@ -6,9 +6,8 @@ About
 -----
 I focus on pragmatic engineering and clear communication, balancing product instincts with technical craftsmanship.
 
-- 🔭 I’m currently working on: a modern, scalable app that improves developer productivity.
-- 🌱 I’m currently learning: system design, observability, and agentic-driven features.
-- 👯 I’m looking to collaborate on: backend services, developer tooling, and open-source libraries.
+-  I’m currently working on: a modern, scalable app that improves developer productivity.
+-  I’m currently learning: system design, observability, and agentic-driven features.
 - ⚡ Fun fact: I love 🏀
 
 Core Skills
