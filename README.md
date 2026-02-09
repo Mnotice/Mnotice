@@ -6,8 +6,8 @@ About
 -----
 I'm a solopreneur building what im passionate about.
 
--  I’m currently working on: a modern, scalable app that improves developer productivity.
--  I’m currently learning: system design, observability, and agentic-driven features.
+-  I’m currently working on: some random hobby app
+-  I’m currently learning: system design & agentic-driven features.
 - ⚡ Fun fact: I love 🏀
 
 Core Skills
@@ -16,8 +16,8 @@ Core Skills
 * Frameworks & Libraries: Node.js, React, Next.js, Express, Flask.
 * AI & Integration: Agent development, MCP servers, prompt engineering, LLM orchestration.
 * Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD.
-* Data & Testing: PostgreSQL, Redis, Jest, PyTest, Test-Driven Development.
-
+* Data & Testing: PostgreSQL, Redis
+* Strong problem solving skills
 
 How I Work
 ----------
