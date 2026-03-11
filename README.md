@@ -6,7 +6,7 @@ About
 -----
 I'm a solopreneur following my passions.
 
--  I’m currently working on: some random hobby app
+-  I’m currently working on: travelling, exploring & blogging
 -  I’m currently learning: system design & agentic-driven features.
 - ⚡ Fun fact: I love 🏀
 
