@@ -37,4 +37,4 @@ Get in touch
 - [Email](mailto:mikhail1337@hotmail.com)
 - [Twitter](https://x.com/MikhailNic1337)
 - [WhatsApp](https://wa.me/27825109962)
-- [Telegram](https://mikhailnicho137)
+
