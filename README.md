@@ -4,7 +4,7 @@
 
 About
 -----
-I'm a solopreneur building what im passionate about.
+I'm a solopreneur following my passions.
 
 -  I’m currently working on: some random hobby app
 -  I’m currently learning: system design & agentic-driven features.
@@ -29,7 +29,7 @@ How I Work
 Open to
 -------
 - Full-time Front-end roles 
-- Contract / freelance work on APIs, automation
+- Contract / freelance w/ APIs, automations.
 
 
 Get in touch
@@ -37,4 +37,4 @@ Get in touch
 - [Email](mailto:mikhail1337@hotmail.com)
 - [Twitter](https://x.com/MikhailNic1337)
 - [WhatsApp](https://wa.me/27825109962)
-
+- [Telegram](https://mikhailnicho137)
