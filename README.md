@@ -7,12 +7,12 @@ About
 I'm a solopreneur following my passions.
 
 -  I’m currently working on: travelling[🇹🇭,🇮🇩,🇸🇬,🇻🇳,🇵🇭], exploring[🇹🇭] & blogging [ [Muscles](https://www.psresolve.co.za) ]
--  I’m currently learning: system design & agentic-driven features.
-- ⚡ Fun fact: I love 🏀
+-  I’m currently learning: system design & agentic-driven features 🤖.
+- ⚡ Fun fact: I love 🏀, working out 🏋️‍♂️, running 🏃, reading 📚, sunsets 🌆, & swimming 🏊.
 
 Core Skills
 -----------
-* Languages: JavaScript/TypeScript, Python.
+* Languages: JavaScript/TypeScript, Python. 
 * Frameworks & Libraries: Node.js, React, Next.js, Express, Flask.
 * AI & Integration: Agent development, MCP servers, prompt engineering, LLM orchestration.
 * Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD.
