@@ -13,10 +13,10 @@ I'm a solopreneur following my passions.
 Core Skills
 -----------
 * Languages: JavaScript/TypeScript, Python. 
-* Frameworks & Libraries: Node.js, React, Next.js, Express, Flask.
+* Frameworks: Node.js, React, Next.js, Express.
 * AI & Integration: Agent development, MCP servers, prompt engineering, LLM orchestration.
 * Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD.
-* Data & Testing: PostgreSQL, Redis
+* Data & Testing: PostgreSQL, Supabase, Redis
 * Strong problem solving skills
 
 How I Work
