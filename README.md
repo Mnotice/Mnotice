@@ -6,8 +6,8 @@ About
 -----
 I'm a solopreneur following my passions.
 
--  I’m currently working on: travelling[🇹🇭,🇮🇩,🇸🇬,🇻🇳,🇵🇭], exploring[🇹🇭] & blogging [ [Muscles](https://www.psresolve.co.za) ]
--  I’m currently learning: system design & agentic-driven features 🤖.
+-  I’m currently: travelling[🇹🇭,🇮🇩,🇸🇬,🇻🇳,🇵🇭], exploring[🇹🇭] & blogging [ [Muscles](https://www.psresolve.co.za) ]
+-  I’m currently learning: clean code, system design & agentic-driven features 🤖.
 - ⚡ Fun fact: I love 🏀, working out 🏋️‍♂️, running 🏃, reading 📚, sunsets 🌆, & swimming 🏊.
 
 Core Skills
