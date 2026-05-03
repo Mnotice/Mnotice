@@ -19,19 +19,6 @@ Core Skills
 * Data & Testing: PostgreSQL, Supabase, Redis
 * Strong problem solving skills
 
-How I Work
-----------
-- I break problems into small, testable pieces and prioritize fast feedback.
-- I favor observable systems: metrics, logs, and traces are first-class.
-- I write clear, minimal APIs and focus on developer experience.
-- I practice incremental delivery and favor frequent releases with solid automation.
-
-Open to
--------
-- Full-time Front-end roles 
-- Contract / freelance w/ APIs, automations.
-
-
 Get in touch
 ------------
 - [Email](mailto:mikhail1337@hotmail.com)
