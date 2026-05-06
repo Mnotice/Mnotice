@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 
 
@@ -12,7 +12,7 @@ I'm a solopreneur following my passions.
 
 Core Skills
 -----------
-* Languages: TypeScript, Python. 
+* Languages: TypeScript
 * Frameworks: Node.js, React, Next.js, Express.
 * AI & Integration: Agent development, MCP servers, 
 * Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, Jenkins.
