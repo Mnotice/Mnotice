@@ -14,8 +14,8 @@ Core Skills
 -----------
 * Languages: TypeScript, Python. 
 * Frameworks: Node.js, React, Next.js, Express.
-* AI & Integration: Agent development, MCP servers, prompt engineering, LLM orchestration.
-* Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD.
+* AI & Integration: Agent development, MCP servers, 
+* Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, Jenkins.
 * Data & Testing: PostgreSQL, Supabase
 
 Get in touch
